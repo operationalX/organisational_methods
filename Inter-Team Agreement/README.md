@@ -1,4 +1,4 @@
-# **Inter-Team Agreemet Design Workshop Guide**  
+# **Inter-Team Agreement Design Workshop Guide**  
 *(Streamlined for Remote/Hybrid Teams)*  
 
 ---
